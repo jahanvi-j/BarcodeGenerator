@@ -1,4 +1,4 @@
-# Barcode_Generator
+# Barcode Generator
 
 Created a Barcode Generator that can create unique barcodes, 
 various temolates are available in the application.
